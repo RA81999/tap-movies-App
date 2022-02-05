@@ -1,1 +1,5 @@
-# tap-movies-App
+
+Mono Repository
+-client
+-server
+
